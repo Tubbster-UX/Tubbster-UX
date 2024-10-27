@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a fuel tracking app for companies and a DMS for Limitless Auto Sales and making an app for LifeLight<br>👯 I’m looking to collaborate on a Fuel Tracking app for Construction Companies<br>💬 Ask me about LifeLight!<br>⚡ Fun fact: I have been to all 50 United States
+🔭 I’m currently working on a fuel tracking app for companies and a DMS for Limitless Auto Sales and making an app for LifeLight<br>💬 Ask me about LifeLight!<br>⚡ Fun fact: I have been to all 50 United States
 
 
 ## 🌐 Socials:
